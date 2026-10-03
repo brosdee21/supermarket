@@ -1,0 +1,497 @@
+{
+  "branch": {
+    "slug": "garki",
+    "name": "Garki Branch",
+    "address": "45 Ademola Adetokunbo Crescent, Garki, Abuja",
+    "phone": "0803 000 2222",
+    "whatsapp": "2348030002222",
+    "hours": "Mon - Sat, 8:00am - 8:00pm"
+  },
+  "categories": [
+    {
+      "id": "cat-phones",
+      "slug": "phones-tablets",
+      "name": "Phones & Tablets",
+      "icon": "Smartphone"
+    },
+    {
+      "id": "cat-computing",
+      "slug": "computing",
+      "name": "Computing",
+      "icon": "Laptop"
+    },
+    {
+      "id": "cat-electronics",
+      "slug": "electronics",
+      "name": "Electronics",
+      "icon": "Zap"
+    },
+    {
+      "id": "cat-food",
+      "slug": "food-groceries",
+      "name": "Food & Groceries",
+      "icon": "ShoppingBasket"
+    },
+    {
+      "id": "cat-fashion",
+      "slug": "fashion",
+      "name": "Fashion",
+      "icon": "Shirt"
+    },
+    {
+      "id": "cat-home",
+      "slug": "home-office",
+      "name": "Home & Office",
+      "icon": "Home"
+    },
+    {
+      "id": "cat-beauty",
+      "slug": "health-beauty",
+      "name": "Health & Beauty",
+      "icon": "Sparkles"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-001",
+      "slug": "iphone-15-pro-256gb",
+      "name": "iPhone 15 Pro 256GB",
+      "description": "Titanium design, A17 Pro chip, 48MP main camera and all-day battery life. Factory unlocked, comes with 1 year warranty.",
+      "price": 1250000,
+      "originalPrice": 1350000,
+      "categorySlug": "phones-tablets",
+      "image": "https://picsum.photos/seed/iphone15pro/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/iphone15pro/700/700",
+        "https://picsum.photos/seed/iphone15pro-2/700/700",
+        "https://picsum.photos/seed/iphone15pro-3/700/700"
+      ],
+      "rating": 4.8,
+      "reviewCount": 214,
+      "stock": 0,
+      "isFeatured": true,
+      "tags": [
+        "tech",
+        "new"
+      ]
+    },
+    {
+      "id": "prod-002",
+      "slug": "samsung-galaxy-a54",
+      "name": "Samsung Galaxy A54 5G",
+      "description": "6.4-inch Super AMOLED display, 50MP OIS camera, 5000mAh battery. Great all-round mid-range performer.",
+      "price": 320000,
+      "categorySlug": "phones-tablets",
+      "image": "https://picsum.photos/seed/galaxya54/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/galaxya54/700/700",
+        "https://picsum.photos/seed/galaxya54-2/700/700",
+        "https://picsum.photos/seed/galaxya54-3/700/700"
+      ],
+      "rating": 4.5,
+      "reviewCount": 132,
+      "stock": 8,
+      "isFeatured": true,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-003",
+      "slug": "infinix-note-40",
+      "name": "Infinix Note 40",
+      "description": "108MP camera, 108W fast charging, 8GB RAM. Excellent value for everyday use and gaming.",
+      "price": 185000,
+      "categorySlug": "phones-tablets",
+      "image": "https://picsum.photos/seed/infinixnote40/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/infinixnote40/700/700",
+        "https://picsum.photos/seed/infinixnote40-2/700/700",
+        "https://picsum.photos/seed/infinixnote40-3/700/700"
+      ],
+      "rating": 4.3,
+      "reviewCount": 89,
+      "stock": 15,
+      "isFeatured": false,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-004",
+      "slug": "ipad-10th-gen",
+      "name": "iPad (10th Generation)",
+      "description": "10.9-inch Liquid Retina display, A14 Bionic chip. Perfect for work, school and entertainment.",
+      "price": 480000,
+      "categorySlug": "phones-tablets",
+      "image": "https://picsum.photos/seed/ipad10/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/ipad10/700/700",
+        "https://picsum.photos/seed/ipad10-2/700/700",
+        "https://picsum.photos/seed/ipad10-3/700/700"
+      ],
+      "rating": 4.7,
+      "reviewCount": 76,
+      "stock": 4,
+      "isFeatured": false,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-005",
+      "slug": "hp-pavilion-15-laptop",
+      "name": "HP Pavilion 15 Laptop",
+      "description": "Intel Core i5, 8GB RAM, 512GB SSD, 15.6-inch FHD display. Reliable for work and study.",
+      "price": 650000,
+      "categorySlug": "computing",
+      "image": "https://picsum.photos/seed/hppavilion15/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/hppavilion15/700/700",
+        "https://picsum.photos/seed/hppavilion15-2/700/700",
+        "https://picsum.photos/seed/hppavilion15-3/700/700"
+      ],
+      "rating": 4.6,
+      "reviewCount": 58,
+      "stock": 0,
+      "isFeatured": true,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-006",
+      "slug": "dell-inspiron-14",
+      "name": "Dell Inspiron 14",
+      "description": "Intel Core i7, 16GB RAM, 512GB SSD. Sleek, fast and built for multitasking professionals.",
+      "price": 590000,
+      "categorySlug": "computing",
+      "image": "https://picsum.photos/seed/dellinspiron14/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/dellinspiron14/700/700",
+        "https://picsum.photos/seed/dellinspiron14-2/700/700",
+        "https://picsum.photos/seed/dellinspiron14-3/700/700"
+      ],
+      "rating": 4.6,
+      "reviewCount": 41,
+      "stock": 5,
+      "isFeatured": false,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-007",
+      "slug": "logitech-wireless-mouse",
+      "name": "Logitech M185 Wireless Mouse",
+      "description": "Compact, reliable wireless mouse with a 12-month battery life and plug-and-play USB receiver.",
+      "price": 12000,
+      "categorySlug": "computing",
+      "image": "https://picsum.photos/seed/logitechmouse/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/logitechmouse/700/700",
+        "https://picsum.photos/seed/logitechmouse-2/700/700",
+        "https://picsum.photos/seed/logitechmouse-3/700/700"
+      ],
+      "rating": 4.4,
+      "reviewCount": 302,
+      "stock": 30,
+      "isFeatured": false,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-008",
+      "slug": "anker-powerbank-20000mah",
+      "name": "Anker PowerCore 20000mAh",
+      "description": "High-capacity power bank with fast charging for phones, tablets and small laptops.",
+      "price": 25000,
+      "categorySlug": "electronics",
+      "image": "https://picsum.photos/seed/ankerpowerbank/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/ankerpowerbank/700/700",
+        "https://picsum.photos/seed/ankerpowerbank-2/700/700",
+        "https://picsum.photos/seed/ankerpowerbank-3/700/700"
+      ],
+      "rating": 4.7,
+      "reviewCount": 187,
+      "stock": 0,
+      "isFeatured": true,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-009",
+      "slug": "jbl-flip-6-speaker",
+      "name": "JBL Flip 6 Bluetooth Speaker",
+      "description": "Bold sound, IP67 waterproof design and up to 12 hours of playtime. Perfect for outdoor hangouts.",
+      "price": 78000,
+      "categorySlug": "electronics",
+      "image": "https://picsum.photos/seed/jblflip6/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/jblflip6/700/700",
+        "https://picsum.photos/seed/jblflip6-2/700/700",
+        "https://picsum.photos/seed/jblflip6-3/700/700"
+      ],
+      "rating": 4.8,
+      "reviewCount": 121,
+      "stock": 6,
+      "isFeatured": false,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-010",
+      "slug": "sony-wh-ch520-headphones",
+      "name": "Sony WH-CH520 Headphones",
+      "description": "Wireless on-ear headphones with up to 50 hours battery life and quick-charge support.",
+      "price": 45000,
+      "categorySlug": "electronics",
+      "image": "https://picsum.photos/seed/sonywhch520/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/sonywhch520/700/700",
+        "https://picsum.photos/seed/sonywhch520-2/700/700",
+        "https://picsum.photos/seed/sonywhch520-3/700/700"
+      ],
+      "rating": 4.5,
+      "reviewCount": 94,
+      "stock": 9,
+      "isFeatured": false,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-011",
+      "slug": "smart-led-tv-43",
+      "name": "Smart LED TV 43\"",
+      "description": "Full HD Smart TV with built-in WiFi, YouTube and Netflix apps, and slim bezel design.",
+      "price": 210000,
+      "categorySlug": "electronics",
+      "image": "https://picsum.photos/seed/smarttv43/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/smarttv43/700/700",
+        "https://picsum.photos/seed/smarttv43-2/700/700",
+        "https://picsum.photos/seed/smarttv43-3/700/700"
+      ],
+      "rating": 4.6,
+      "reviewCount": 67,
+      "stock": 2,
+      "isFeatured": true,
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "prod-012",
+      "slug": "basmati-rice-25kg",
+      "name": "Basmati Rice 25kg Bag",
+      "description": "Premium long-grain basmati rice, perfect for jollof, fried rice and everyday meals.",
+      "price": 38000,
+      "categorySlug": "food-groceries",
+      "image": "https://picsum.photos/seed/basmatirice/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/basmatirice/700/700",
+        "https://picsum.photos/seed/basmatirice-2/700/700",
+        "https://picsum.photos/seed/basmatirice-3/700/700"
+      ],
+      "rating": 4.9,
+      "reviewCount": 245,
+      "stock": 45,
+      "isFeatured": true,
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "prod-013",
+      "slug": "groundnut-oil-5l",
+      "name": "Pure Groundnut Oil 5L",
+      "description": "100% natural groundnut oil, cold-pressed for rich flavour and healthy cooking.",
+      "price": 15500,
+      "categorySlug": "food-groceries",
+      "image": "https://picsum.photos/seed/groundnutoil/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/groundnutoil/700/700",
+        "https://picsum.photos/seed/groundnutoil-2/700/700",
+        "https://picsum.photos/seed/groundnutoil-3/700/700"
+      ],
+      "rating": 4.7,
+      "reviewCount": 156,
+      "stock": 0,
+      "isFeatured": false,
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "prod-014",
+      "slug": "indomie-noodles-carton",
+      "name": "Indomie Noodles Carton (40 Packs)",
+      "description": "Family-size carton of the classic chicken-flavour instant noodles.",
+      "price": 9500,
+      "categorySlug": "food-groceries",
+      "image": "https://picsum.photos/seed/indomienoodles/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/indomienoodles/700/700",
+        "https://picsum.photos/seed/indomienoodles-2/700/700",
+        "https://picsum.photos/seed/indomienoodles-3/700/700"
+      ],
+      "rating": 4.8,
+      "reviewCount": 512,
+      "stock": 80,
+      "isFeatured": true,
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "prod-015",
+      "slug": "golden-morn-900g",
+      "name": "Golden Morn 900g",
+      "description": "Fortified cereal made from maize and soya, a nutritious breakfast for the family.",
+      "price": 3200,
+      "categorySlug": "food-groceries",
+      "image": "https://picsum.photos/seed/goldenmorn/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/goldenmorn/700/700",
+        "https://picsum.photos/seed/goldenmorn-2/700/700",
+        "https://picsum.photos/seed/goldenmorn-3/700/700"
+      ],
+      "rating": 4.6,
+      "reviewCount": 198,
+      "stock": 50,
+      "isFeatured": false,
+      "tags": [
+        "food"
+      ]
+    },
+    {
+      "id": "prod-016",
+      "slug": "ankara-print-fabric",
+      "name": "Ankara Print Fabric (6 Yards)",
+      "description": "Vibrant, high-quality Ankara fabric bundle, perfect for outfits and accessories.",
+      "price": 18000,
+      "categorySlug": "fashion",
+      "image": "https://picsum.photos/seed/ankarafabric/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/ankarafabric/700/700",
+        "https://picsum.photos/seed/ankarafabric-2/700/700",
+        "https://picsum.photos/seed/ankarafabric-3/700/700"
+      ],
+      "rating": 4.7,
+      "reviewCount": 88,
+      "stock": 14,
+      "isFeatured": false,
+      "tags": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "prod-017",
+      "slug": "mens-leather-sneakers",
+      "name": "Men's Leather Sneakers",
+      "description": "Classic low-top leather sneakers with a cushioned sole for all-day comfort.",
+      "price": 32000,
+      "categorySlug": "fashion",
+      "image": "https://picsum.photos/seed/leathersneakers/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/leathersneakers/700/700",
+        "https://picsum.photos/seed/leathersneakers-2/700/700",
+        "https://picsum.photos/seed/leathersneakers-3/700/700"
+      ],
+      "rating": 4.5,
+      "reviewCount": 143,
+      "stock": 0,
+      "isFeatured": false,
+      "tags": [
+        "fashion"
+      ]
+    },
+    {
+      "id": "prod-018",
+      "slug": "nonstick-cookware-set",
+      "name": "Non-Stick Cookware Set (10 Pieces)",
+      "description": "Durable non-stick pots and pans set with heat-resistant handles.",
+      "price": 42000,
+      "categorySlug": "home-office",
+      "image": "https://picsum.photos/seed/cookwareset/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/cookwareset/700/700",
+        "https://picsum.photos/seed/cookwareset-2/700/700",
+        "https://picsum.photos/seed/cookwareset-3/700/700"
+      ],
+      "rating": 4.6,
+      "reviewCount": 77,
+      "stock": 6,
+      "isFeatured": false,
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "prod-019",
+      "slug": "study-desk-lamp-led",
+      "name": "Study Desk LED Lamp",
+      "description": "Adjustable LED desk lamp with 3 brightness modes and USB charging port.",
+      "price": 9800,
+      "categorySlug": "home-office",
+      "image": "https://picsum.photos/seed/desklamp/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/desklamp/700/700",
+        "https://picsum.photos/seed/desklamp-2/700/700",
+        "https://picsum.photos/seed/desklamp-3/700/700"
+      ],
+      "rating": 4.4,
+      "reviewCount": 112,
+      "stock": 18,
+      "isFeatured": false,
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "id": "prod-020",
+      "slug": "nivea-body-lotion-400ml",
+      "name": "Nivea Body Lotion 400ml",
+      "description": "24-hour moisturising body lotion for smooth, soft skin every day.",
+      "price": 4200,
+      "categorySlug": "health-beauty",
+      "image": "https://picsum.photos/seed/nivealotion/700/700",
+      "gallery": [
+        "https://picsum.photos/seed/nivealotion/700/700",
+        "https://picsum.photos/seed/nivealotion-2/700/700",
+        "https://picsum.photos/seed/nivealotion-3/700/700"
+      ],
+      "rating": 4.8,
+      "reviewCount": 264,
+      "stock": 33,
+      "isFeatured": false,
+      "tags": [
+        "beauty"
+      ]
+    }
+  ],
+  "orders": [],
+  "inquiries": [
+    {
+      "productSlug": "infinix-note-40",
+      "productName": "Infinix Note 40",
+      "quantity": 1,
+      "fromBranch": "wuse",
+      "toBranch": "garki",
+      "buyer": {
+        "name": "John Doe",
+        "phone": "08078965734",
+        "email": "johnnysins@test.com",
+        "address": "wuse"
+      },
+      "id": "inq-msynu8yx-ioo7i",
+      "status": "open",
+      "createdAt": "2026-08-18T12:50:07.977Z"
+    }
+  ]
+}
